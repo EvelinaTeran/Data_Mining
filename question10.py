@@ -1,5 +1,4 @@
 def question10_1():
-    # answer: True
     answer = False
     return answer
 
